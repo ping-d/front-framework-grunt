@@ -41,7 +41,9 @@ module.exports = function(grunt) {
                     ext: '.min.css'
                 }]
             }
-        }
+        },
+
+
     });
 
     // 加载包含 "uglify" 任务的插件。
